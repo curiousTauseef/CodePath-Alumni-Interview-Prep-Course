@@ -1,6 +1,6 @@
 # CodePath Alumni Interview Prep Course, July - August 2017
 
-As I said in [my InterviewBit profile gif](https://github.com/tachyonlabs/codepath-alumni-interview-prep-course-prework/blob/master/interviewbit-profile.gif), I've actually been using InterviewBit for about three months now (though I still have a ways to go before reaching Code Ninja status). My profile is https://www.interviewbit.com/profile/Tachyon. I usually do one problem a day, but sometimes more.
+As I said in [my application prework InterviewBit profile gif](https://github.com/tachyonlabs/codepath-alumni-interview-prep-course-prework/blob/master/interviewbit-profile.gif), I've actually been using InterviewBit for about three months now (though I still have a ways to go before reaching Code Ninja status). My profile is https://www.interviewbit.com/profile/Tachyon. I usually do one problem a day, but sometimes more.
 
 ## Tasks Before Session 1
 
