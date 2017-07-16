@@ -20,13 +20,13 @@ As shown in this GIF, I've already completed almost all the Arrays and Strings p
 
 As I mentioned above, I had already completed almost all of the Arrays and Strings problems on InterviewBit before the class started, but I did four more for this assignment:
 
-* Arrays - Find Permutation
-* Arrays - Hotel Bookings Possible
-* Strings - Minimum Characters required to make a String Palindromic
-* Strings - Multiply Strings
+* [Arrays - Find Permutation](https://github.com/tachyonlabs/CodePath-Alumni-Interview-Prep-Course/blob/master/interviewbit-arrays-find-permutation.py)
+* [Arrays - Hotel Bookings Possible](https://github.com/tachyonlabs/CodePath-Alumni-Interview-Prep-Course/blob/master/interviewbit-arrays-hotel-bookings-possible.py)
+* [Strings - Minimum Characters required to make a String Palindromic](https://github.com/tachyonlabs/CodePath-Alumni-Interview-Prep-Course/blob/master/interviewbit-strings-minimum-characters-required-to-make-a-string-palindromic.py)
+* [Strings - Multiply Strings](https://github.com/tachyonlabs/CodePath-Alumni-Interview-Prep-Course/blob/master/interviewbit-strings-multiply-strings.py)
 
 And here's a GIF of my Arrays and Strings topic pages where you can see them checked off:
 
-* GIF of my updated InterviewBit Arrays and Strings topic pages
+* [GIF of my updated InterviewBit Arrays and Strings topic pages](https://github.com/tachyonlabs/CodePath-Alumni-Interview-Prep-Course/blob/master/interviewbit-arrays-and-strings-topics-2.gif)
 
 I took the HackerRank "CodePath Interview Prep - Unit 1 Test" on July 15, so you should have received my results. Here's the feedback I sent to HackerRank afterward: "I enjoyed the test even though I didn't finish debugging my third solution in time. What might have made things easier for me with the debugging would have been if you had had some gradually-getting-longer test cases in between the two short ones and then the long one -- as it was I kept working on developing my own custom test cases with different edge cases that might reproduce the problem while still being short enough to step through easily, but my code worked perfectly on everything I came up with -- but then again depending on your test you don't necessarily want to make anything easier about it. Anyway, thanks, and looking forward to the next test!"
