@@ -30,3 +30,17 @@ And here's a GIF of my Arrays and Strings topic pages where you can see them che
 * [GIF of my updated InterviewBit Arrays and Strings topic pages](https://github.com/tachyonlabs/CodePath-Alumni-Interview-Prep-Course/blob/master/interviewbit-arrays-and-strings-topics-2.gif)
 
 I took the HackerRank "CodePath Interview Prep - Unit 1 Test" on July 15, so you should have received my results. Here's the feedback I sent to HackerRank afterward: "I enjoyed the test even though I didn't finish debugging my third solution in time. What might have made things easier for me with the debugging would have been if you had had some gradually-getting-longer test cases in between the two short ones and then the long one -- as it was I kept working on developing my own custom test cases with different edge cases that might reproduce the problem while still being short enough to step through easily, but my code worked perfectly on everything I came up with -- but then again depending on your test you don't necessarily want to make anything easier about it. Anyway, thanks, and looking forward to the next test!"
+
+## Tasks Before Session 2
+
+As shown in this GIF, I've already completed almost all the Hashing and Linked Lists problems on InterviewBit:
+
+* GIF of my InterviewBit Hashing and Linked Lists topic pages
+
+#### My InterviewBit Hashing solutions so far:
+
+* Colorful Number, 2 Sum, 4 Sum, Diffk II, Anagrams, Equal, Copy List, Longest Substring Without Repeat, Window String, Fraction, and Substring Concatenation.
+
+#### My InterviewBit Linked Lists solutions so far:
+
+* Intersection of Linked Lists, Reverse Linked List, Palindrome List, Remove Duplicates from Sorted List, Remove Duplicates from Sorted List II, Merge Two Sorted Lists, Remove Nth Node from List End, Rotate List, Reverse Link List II, Swap List Nodes in pairs, Add Two Numbers as Lists, List Cycle, Partition List, and Insertion Sort List.
