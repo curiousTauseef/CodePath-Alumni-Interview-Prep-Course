@@ -49,13 +49,13 @@ As shown in this GIF, I've already completed almost all the Hashing and Linked L
 
 As I said above, I had already completed almost all of the Hashing and Linked Lists problems on InterviewBit, but I did four more for this assignment:
 
-* Hashing - Points on the Straight Line
-* Hashing - Valid Sudoku
-* Linked Lists - K Reverse Linked List
-* Linked Lists - Reorder List
+* [Hashing - Points on the Straight Line](https://github.com/tachyonlabs/CodePath-Alumni-Interview-Prep-Course/blob/master/interviewbit-hashing-points-on-the-straight-line.py)
+* [Hashing - Valid Sudoku](https://github.com/tachyonlabs/CodePath-Alumni-Interview-Prep-Course/blob/master/interviewbit-hashing-valid-sudoku.py)
+* [Linked Lists - K Reverse Linked List](https://github.com/tachyonlabs/CodePath-Alumni-Interview-Prep-Course/blob/master/interviewbit-linked-lists-k-reverse-linked-list.py)
+* [Linked Lists - Reorder List](https://github.com/tachyonlabs/CodePath-Alumni-Interview-Prep-Course/blob/master/interviewbit-linked-lists-reorder-list.py)
 
 And here's a GIF of my Hashing and Linked Lists topic pages where you can see them checked off:
 
-* GIF of my updated InterviewBit Hashing and Linked Lists topic pages
+* [GIF of my updated InterviewBit Hashing and Linked Lists topic pages](https://github.com/tachyonlabs/CodePath-Alumni-Interview-Prep-Course/blob/master/interviewbit-hashing-and-linked-lists-topics-2.gif)
 
 I took the HackerRank "CodePath Interview Prep - Unit 2 Test" on July 22, so you should have the results by now.
