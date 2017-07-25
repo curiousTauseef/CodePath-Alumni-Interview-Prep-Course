@@ -44,3 +44,18 @@ As shown in this GIF, I've already completed almost all the Hashing and Linked L
 #### My InterviewBit Linked Lists solutions so far:
 
 * [Intersection of Linked Lists](https://github.com/tachyonlabs/CodePath-Alumni-Interview-Prep-Course/blob/master/interviewbit-linked-lists-intersection-of-linked-lists.py), [Reverse Linked List](https://github.com/tachyonlabs/CodePath-Alumni-Interview-Prep-Course/blob/master/interviewbit-linked-lists-reverse-linked-list.py), [Palindrome List](https://github.com/tachyonlabs/CodePath-Alumni-Interview-Prep-Course/blob/master/interviewbit-linked-lists-palindrome-list.py), [Remove Duplicates from Sorted List](https://github.com/tachyonlabs/CodePath-Alumni-Interview-Prep-Course/blob/master/interviewbit-linked-lists-remove-duplicates-from-sorted-list.py), [Remove Duplicates from Sorted List II](https://github.com/tachyonlabs/CodePath-Alumni-Interview-Prep-Course/blob/master/interviewbit-linked-lists-remove-duplicates-from-sorted-list-ii.py), [Merge Two Sorted Lists](https://github.com/tachyonlabs/CodePath-Alumni-Interview-Prep-Course/blob/master/interviewbit-linked-lists-merge-two-sorted-lists.py), [Remove Nth Node from List End](https://github.com/tachyonlabs/CodePath-Alumni-Interview-Prep-Course/blob/master/interviewbit-linked-lists-remove-nth-node-from-list-end.py), [Rotate List](https://github.com/tachyonlabs/CodePath-Alumni-Interview-Prep-Course/blob/master/interviewbit-linked-lists-rotate-list.py), [Reverse Linked List II](https://github.com/tachyonlabs/CodePath-Alumni-Interview-Prep-Course/blob/master/interviewbit-linked-lists-rotate-list.py), [Swap List Nodes in pairs](https://github.com/tachyonlabs/CodePath-Alumni-Interview-Prep-Course/blob/master/interviewbit-linked-lists-swap-list-nodes-in-pairs.py), [Add Two Numbers as Lists](https://github.com/tachyonlabs/CodePath-Alumni-Interview-Prep-Course/blob/master/interviewbit-linked-lists-add-two-numbers-as-lists.py), [List Cycle](https://github.com/tachyonlabs/CodePath-Alumni-Interview-Prep-Course/blob/master/interviewbit-linked-lists-list-cycle.py), [Partition List](https://github.com/tachyonlabs/CodePath-Alumni-Interview-Prep-Course/blob/master/interviewbit-linked-lists-partition-list.py), and [Insertion Sort List](https://github.com/tachyonlabs/CodePath-Alumni-Interview-Prep-Course/blob/master/interviewbit-linked-lists-insertion-sort-list.py).
+
+## Assignment 2
+
+As I said above, I had already completed almost all of the Hashing and Linked Lists problems on InterviewBit, but I did four more for this assignment:
+
+* Hashing - Points on the Straight Line
+* Hashing - Valid Sudoku
+* Linked Lists - K Reverse Linked List
+* Linked Lists - Reorder List
+
+And here's a GIF of my Hashing and Linked Lists topic pages where you can see them checked off:
+
+* GIF of my updated InterviewBit Hashing and Linked Lists topic pages
+
+I took the HackerRank "CodePath Interview Prep - Unit 2 Test" on July 22, so you should have the results by now.
