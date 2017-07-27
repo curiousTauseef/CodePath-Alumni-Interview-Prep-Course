@@ -59,3 +59,21 @@ And here's a GIF of my Hashing and Linked Lists topic pages where you can see th
 * [GIF of my updated InterviewBit Hashing and Linked Lists topic pages](https://github.com/tachyonlabs/CodePath-Alumni-Interview-Prep-Course/blob/master/interviewbit-hashing-and-linked-lists-topics-2.gif)
 
 I took the HackerRank "CodePath Interview Prep - Unit 2 Test" on July 22, so you should have the results by now.
+
+## Tasks Before Session 3
+
+As shown in this GIF, on InterviewBit I've already completed many of the Trees problems, almost all the Binary Search problems, and one of the Heaps and Maps problems:
+
+* GIF of my InterviewBit Trees, Binary Search, and Heaps and Maps topic pages
+
+#### My InterviewBit Trees solutions so far:
+
+* Next Greater Number BST, Valid Binary Search Tree, Vertical Order Traversal of Binary Tree, Inorder Traversal, Postorder Traversal, Preorder Traversal, Kth Smallest Element In Tree, ZigZag Level Order Traversal BT, Populate Next Right Pointers Tree, Max Depth of Binary Tree, and Min Depth of Binary Tree.
+
+#### My InterviewBit Binary Search solutions so far:
+
+* Count Element Occurrence, Rotated Array, Square Root of Integer, Painter's Partition Problem, Allocate Books, Matrix Search, Search for a Range, Sorted Insert Position, Implement Power Function, and Rotated Sorted Array Search.
+
+#### My InterviewBit Heaps and Maps solutions so far:
+
+* Magician and Chocolates.
