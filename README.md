@@ -77,3 +77,20 @@ As shown in this GIF, on InterviewBit I've already completed many of the Trees p
 #### My InterviewBit Heaps and Maps solutions so far:
 
 * [Magician and Chocolates.](https://github.com/tachyonlabs/CodePath-Alumni-Interview-Prep-Course/blob/master/interviewbit-heaps-and-maps-magician-and-chocolates.py)
+
+## Assignment 3
+
+I had already completed many of the Trees problems, and all except two of the Binary Search problems on InterviewBit, but right now I'm still stuck battling those last two, so for this assignment I did five more Trees problems and one more Heaps and Maps problem -- the LRU Cache one used as an example in the last class session:
+
+* Trees - Identical Binary Trees
+* Trees - Path Sum
+* Trees - Sum Root to Leaf Numbers
+* Trees - Root to Leaf Paths With Sum
+* Trees - Flatten Binary Tree to Linked List
+* Heaps and Maps - LRU Cache
+
+And here's a GIF of my Trees and Heaps and Maps topic pages where you can see them and others checked off:
+
+* GIF of my updated InterviewBit Trees and Heaps and Maps topic pages
+
+I took the HackerRank "CodePath Interview Prep - Unit 3 Test" on July 30, so you should have the results by now.
