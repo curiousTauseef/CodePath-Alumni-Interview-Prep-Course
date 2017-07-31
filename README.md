@@ -82,15 +82,15 @@ As shown in this GIF, on InterviewBit I've already completed many of the Trees p
 
 I had already completed many of the Trees problems, and all except two of the Binary Search problems on InterviewBit, but right now I'm still stuck battling those last two, so for this assignment I did five more Trees problems and one more Heaps and Maps problem -- the LRU Cache one used as an example in the last class session:
 
-* Trees - Identical Binary Trees
-* Trees - Path Sum
-* Trees - Sum Root to Leaf Numbers
-* Trees - Root to Leaf Paths With Sum
-* Trees - Flatten Binary Tree to Linked List
-* Heaps and Maps - LRU Cache
+* [Trees - Identical Binary Trees](https://github.com/tachyonlabs/CodePath-Alumni-Interview-Prep-Course/blob/master/interviewbit-trees-identical-binary-trees.py)
+* [Trees - Path Sum](https://github.com/tachyonlabs/CodePath-Alumni-Interview-Prep-Course/blob/master/interviewbit-trees-path-sum.py)
+* [Trees - Sum Root to Leaf Numbers](https://github.com/tachyonlabs/CodePath-Alumni-Interview-Prep-Course/blob/master/interviewbit-trees-sum-root-to-leaf-numbers.py)
+* [Trees - Root to Leaf Paths With Sum](https://github.com/tachyonlabs/CodePath-Alumni-Interview-Prep-Course/blob/master/interviewbit-trees-root-to-leaf-paths-with-sum.py)
+* [Trees - Flatten Binary Tree to Linked List](https://github.com/tachyonlabs/CodePath-Alumni-Interview-Prep-Course/blob/master/interviewbit-trees-flatten-binary-tree-to-linked-list.py)
+* [Heaps and Maps - LRU Cache](https://github.com/tachyonlabs/CodePath-Alumni-Interview-Prep-Course/blob/master/interviewbit-heaps-and-maps-lru-cache.py)
 
 And here's a GIF of my Trees and Heaps and Maps topic pages where you can see them and others checked off:
 
-* GIF of my updated InterviewBit Trees and Heaps and Maps topic pages
+* [GIF of my updated InterviewBit Trees and Heaps and Maps topic pages](https://github.com/tachyonlabs/CodePath-Alumni-Interview-Prep-Course/blob/master/interviewbit-trees-and-heaps-and-maps.gif)
 
 I took the HackerRank "CodePath Interview Prep - Unit 3 Test" on July 30, so you should have the results by now.
