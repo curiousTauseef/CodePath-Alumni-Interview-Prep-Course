@@ -99,12 +99,12 @@ I took the HackerRank "CodePath Interview Prep - Unit 3 Test" on July 30, so you
 
 As shown in this GIF, on InterviewBit I've already completed six of the Backtracking problems, and all except one of the Bit Manipulation problems:
 
-* GIF of my InterviewBit Backtracking and Bit Manipulation topic pages
+* [GIF of my InterviewBit Backtracking and Bit Manipulation topic pages](https://github.com/tachyonlabs/CodePath-Alumni-Interview-Prep-Course/blob/master/interviewbit-backtracking-and-bit-manipulation.gif)
 
 #### My InterviewBit Backtracking solutions so far:
 
-* Modular Expression, Subset, Combinations, Subsets II, Letter Phone, and Permutations.
+* [Modular Expression](https://github.com/tachyonlabs/CodePath-Alumni-Interview-Prep-Course/blob/master/interviewbit-backtracking-modular-expression.py), [Subset](https://github.com/tachyonlabs/CodePath-Alumni-Interview-Prep-Course/blob/master/interviewbit-backtracking-subset.py), [Combinations](https://github.com/tachyonlabs/CodePath-Alumni-Interview-Prep-Course/blob/master/interviewbit-backtracking-combinations.py), [Subsets II](https://github.com/tachyonlabs/CodePath-Alumni-Interview-Prep-Course/blob/master/interviewbit-backtracking-subsets-ii.py), [Letter Phone](https://github.com/tachyonlabs/CodePath-Alumni-Interview-Prep-Course/blob/master/interviewbit-backtracking-letter-phone.py), and [Permutations](https://github.com/tachyonlabs/CodePath-Alumni-Interview-Prep-Course/blob/master/interviewbit-backtracking-permutations.py).
 
 #### My InterviewBit Bit Manipulation Search solutions so far:
 
-* Min XOR value, Number of 1 Bits, Reverse Bits, Different Bits Sum Pairwise, Single Number, and Single Number II.
+* [Min XOR value](https://github.com/tachyonlabs/CodePath-Alumni-Interview-Prep-Course/blob/master/interviewbit-bit-manipulation-min-xor-value.py), [Number of 1 Bits](https://github.com/tachyonlabs/CodePath-Alumni-Interview-Prep-Course/blob/master/interviewbit-bit-manipulation-number-of-1-bits.py), [Reverse Bits](https://github.com/tachyonlabs/CodePath-Alumni-Interview-Prep-Course/blob/master/interviewbit-bit-manipulation-reverse-bits.py), [Different Bits Sum Pairwise](https://github.com/tachyonlabs/CodePath-Alumni-Interview-Prep-Course/blob/master/interviewbit-bit-manipulation-different-bits-sum-pairwise.py), [Single Number](https://github.com/tachyonlabs/CodePath-Alumni-Interview-Prep-Course/blob/master/interviewbit-bit-manipulation-single-number.py), and [Single Number II](https://github.com/tachyonlabs/CodePath-Alumni-Interview-Prep-Course/blob/master/interviewbit-bit-manipulation-single-number-ii.py).
