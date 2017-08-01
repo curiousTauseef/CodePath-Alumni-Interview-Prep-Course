@@ -94,3 +94,17 @@ And here's a GIF of my Trees and Heaps and Maps topic pages where you can see th
 * [GIF of my updated InterviewBit Trees and Heaps and Maps topic pages](https://github.com/tachyonlabs/CodePath-Alumni-Interview-Prep-Course/blob/master/interviewbit-trees-and-heaps-and-maps.gif)
 
 I took the HackerRank "CodePath Interview Prep - Unit 3 Test" on July 30, so you should have the results by now.
+
+## Tasks Before Session 4
+
+As shown in this GIF, on InterviewBit I've already completed six of the Backtracking problems, and all except one of the Bit Manipulation problems:
+
+* GIF of my InterviewBit Backtracking and Bit Manipulation topic pages
+
+#### My InterviewBit Backtracking solutions so far:
+
+* Modular Expression, Subset, Combinations, Subsets II, Letter Phone, and Permutations.
+
+#### My InterviewBit Bit Manipulation Search solutions so far:
+
+* Min XOR value, Number of 1 Bits, Reverse Bits, Different Bits Sum Pairwise, Single Number, and Single Number II.
