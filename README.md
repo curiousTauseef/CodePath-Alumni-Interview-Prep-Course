@@ -113,15 +113,15 @@ As shown in this GIF, on InterviewBit I've already completed six of the Backtrac
 
 I had already completed many of the Backtracking problems, and all except one of the Bit Manipulation problems, on InterviewBit, so for this assignment I did the only Bit Manipulation problem I hadn't already done, and five more Backtracking problems:
 
-* Backtracking - Combination Sum II
-* Backtracking - Generate all Parentheses II
-* Backtracking - Gray Code
-* Backtracking - NQueens
-* Backtracking - Reverse Link List Recursion
-* Bit Manipulation - Divide Integers
+* [Backtracking - Combination Sum II](https://github.com/tachyonlabs/CodePath-Alumni-Interview-Prep-Course/blob/master/interviewbit-backtracking-combination-sum-ii.py)
+* [Backtracking - Generate all Parentheses II](https://github.com/tachyonlabs/CodePath-Alumni-Interview-Prep-Course/blob/master/interviewbit-backtracking-generate-all-parentheses-ii.py)
+* [Backtracking - Gray Code](https://github.com/tachyonlabs/CodePath-Alumni-Interview-Prep-Course/blob/master/interviewbit-backtracking-gray-code.py)
+* [Backtracking - NQueens](https://github.com/tachyonlabs/CodePath-Alumni-Interview-Prep-Course/blob/master/interviewbit-backtracking-nqueens.py)
+* [Backtracking - Reverse Link List Recursion](https://github.com/tachyonlabs/CodePath-Alumni-Interview-Prep-Course/blob/master/interviewbit-backtracking-reverse-link-list-recursion.py)
+* [Bit Manipulation - Divide Integers](https://github.com/tachyonlabs/CodePath-Alumni-Interview-Prep-Course/blob/master/interviewbit-bit-manipulation-divide-integers.py)
 
 And here's a GIF of my Backtracking and Bit Manipulation topic pages where you can see them and others checked off:
 
-* GIF of my updated InterviewBit Backtracking and Bit Manipulation topic pages
+* [GIF of my updated InterviewBit Backtracking and Bit Manipulation topic pages](https://github.com/tachyonlabs/CodePath-Alumni-Interview-Prep-Course/blob/master/interviewbit-backtracking-and-bit-manipulation-2.gif)
 
 I took the HackerRank "CodePath Interview Prep - Unit 4 Test" on August 7, so you should have the results by now.
