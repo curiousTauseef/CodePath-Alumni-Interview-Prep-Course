@@ -108,3 +108,20 @@ As shown in this GIF, on InterviewBit I've already completed six of the Backtrac
 #### My InterviewBit Bit Manipulation Search solutions so far:
 
 * [Min XOR value](https://github.com/tachyonlabs/CodePath-Alumni-Interview-Prep-Course/blob/master/interviewbit-bit-manipulation-min-xor-value.py), [Number of 1 Bits](https://github.com/tachyonlabs/CodePath-Alumni-Interview-Prep-Course/blob/master/interviewbit-bit-manipulation-number-of-1-bits.py), [Reverse Bits](https://github.com/tachyonlabs/CodePath-Alumni-Interview-Prep-Course/blob/master/interviewbit-bit-manipulation-reverse-bits.py), [Different Bits Sum Pairwise](https://github.com/tachyonlabs/CodePath-Alumni-Interview-Prep-Course/blob/master/interviewbit-bit-manipulation-different-bits-sum-pairwise.py), [Single Number](https://github.com/tachyonlabs/CodePath-Alumni-Interview-Prep-Course/blob/master/interviewbit-bit-manipulation-single-number.py), and [Single Number II](https://github.com/tachyonlabs/CodePath-Alumni-Interview-Prep-Course/blob/master/interviewbit-bit-manipulation-single-number-ii.py).
+
+## Assignment 4
+
+I had already completed many of the Backtracking problems, and all except one of the Bit Manipulation problems, on InterviewBit, so for this assignment I did the only Bit Manipulation problem I hadn't already done, and five more Backtracking problems:
+
+* Backtracking - Combination Sum II
+* Backtracking - Generate all Parentheses II
+* Backtracking - Gray Code
+* Backtracking - NQueens
+* Backtracking - Reverse Link List Recursion
+* Bit Manipulation - Divide Integers
+
+And here's a GIF of my Backtracking and Bit Manipulation topic pages where you can see them and others checked off:
+
+* GIF of my updated InterviewBit Backtracking and Bit Manipulation topic pages
+
+I took the HackerRank "CodePath Interview Prep - Unit 4 Test" on August 7, so you should have the results by now.
